@@ -1,0 +1,47 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.Instructions
+{
+    float: right;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.model-body{
+    text-align: left;
+    font-size: 20px;
+}
+
+#start,#status
+{
+    font-size: 22px;
+}
+
+h4
+{
+   background-color: whitesmoke;
+   line-height: 2;
+   margin: 0px;
+   bottom: 0;
+   position: fixed;
+}
+#restart{
+    margin-top: 30%;
+}
+
+canvas
+{
+    margin-top: 70px;
+}
